@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'CormorantGaramond';
+	font-display: swap;
+	src: url('CormorantGaramond-Bold.woff2') format('woff2'),
+		url('CormorantGaramond-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
